@@ -1,0 +1,501 @@
+Variable,VariableDescription,Country,Year,PercentageValue
+PUBADVTR,Tertiary treatment,Australia,2019,18.46
+INDEPDTR,Population connected to independent treatment,Denmark,2016,13.42
+PUBMECTR,Primary treatment,Japan,2019,18.88
+PUBADVTR,Tertiary treatment,Germany,2014,27.7
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Norway,2012,39.75
+PUBADVTR,Tertiary treatment,Turkey,2013,55.72
+PUBADVTR,Tertiary treatment,Greece,2013,68.67
+PUBMECTR,Primary treatment,Greece,2017,6.2
+OTHERTR,Unspecified (other) treatment ,Norway,2019,57.37
+PUBBIOTR,Secondary treatment,Hungary,2010,7.82
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Slovenia,2011,72.66
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Luxembourg,2014,61.73
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Norway,2011,1.37
+PUBBIOTR,Secondary treatment,Poland,2017,43.33
+OTHERTR,Unspecified (other) treatment ,Turkey,2011,11.37
+OTHERTR,Unspecified (other) treatment ,New Zealand,2011,0.05
+PUBBIOTR,Secondary treatment,United States,2013,24.05
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),New Zealand,2010,54.79
+PUBADVTR,Tertiary treatment,Denmark,2014,8.89
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Slovak Republic,2013,27.65
+PUBBIOTR,Secondary treatment,Belgium,2012,41.92
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Slovak Republic,2014,64.74
+OTHERTR,Unspecified (other) treatment ,Portugal,2017,57.75
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Portugal,2014,68.21
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Germany,2016,16.15
+PUBMECTR,Primary treatment,Greece,2012,73.64
+PUBBIOTR,Secondary treatment,Switzerland,2015,54.94
+PUBBIOTR,Secondary treatment,Germany,2018,32.95
+PUBBIOTR,Secondary treatment,Chile,2013,69.94
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Finland,2013,48.65
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Switzerland,2014,14.77
+PUBMECTR,Primary treatment,Denmark,2010,20.11
+PUBADVTR,Tertiary treatment,Spain,2011,39.3
+OTHERTR,Unspecified (other) treatment ,Iceland,2016,58.86
+PUBMECTR,Primary treatment,Hungary,2018,66.89
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Sweden,2014,9.99
+OTHERTR,Unspecified (other) treatment ,Mexico,2015,60.06
+OTHERTR,Unspecified (other) treatment ,England and Wales,2015,4.71
+PUBMECTR,Primary treatment,Japan,2010,16.45
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Israel,2014,10.97
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Netherlands,2019,48.7
+PUBBIOTR,Secondary treatment,Slovenia,2010,6.09
+PUBBIOTR,Secondary treatment,Canada,2011,1.91
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Latvia,2017,51.51
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Finland,2017,66.98
+PUBMECTR,Primary treatment,Germany,2019,48.81
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Ireland,2017,22.31
+PUBADVTR,Tertiary treatment,Portugal,2010,0.04
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Iceland,2011,51.86
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Slovenia,2010,57.17
+OTHERTR,Unspecified (other) treatment ,United States,2014,5.62
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Slovenia,2012,38.5
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Ireland,2012,41.46
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Germany,2016,42.17
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Japan,2018,10.88
+PUBNOTR,Connected to a wastewater treatment plant without treatment,United States,2017,2.19
+INDEPDTR,Population connected to independent treatment,Turkey,2011,42.47
+PUBBIOTR,Secondary treatment,Luxembourg,2015,62.13
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,United States,2010,73.4
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,New Zealand,2011,12.46
+PUBNOTR,Connected to a wastewater treatment plant without treatment,France,2018,29.99
+PUBBIOTR,Secondary treatment,Denmark,2011,19.14
+PUBMECTR,Primary treatment,Canada,2011,43.54
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Austria,2016,8.83
+INDEPDTR,Population connected to independent treatment,Israel,2019,0.98
+PUBBIOTR,Secondary treatment,Estonia,2016,46.08
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Denmark,2012,7.32
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Luxembourg,2012,66.57
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Estonia,2011,44.86
+PUBADVTR,Tertiary treatment,Mexico,2019,25.31
+PUBBIOTR,Secondary treatment,Sweden,2018,55.98
+PUBADVTR,Tertiary treatment,Chile,2017,60.4
+PUBADVTR,Tertiary treatment,Hungary,2010,72.13
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Slovak Republic,2014,3.79
+PUBBIOTR,Secondary treatment,United Kingdom,2018,28.08
+INDEPDTR,Population connected to independent treatment,Slovenia,2019,26.14
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Netherlands,2015,67.49
+OTHERTR,Unspecified (other) treatment ,United States,2019,33.09
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Mexico,2015,65.2
+INDEPDTR,Population connected to independent treatment,Finland,2018,64.45
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Australia,2015,56.29
+INDEPDTR,Population connected to independent treatment,Belgium,2014,68.83
+OTHERTR,Unspecified (other) treatment ,Poland,2011,25.56
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Korea,2011,70.59
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Australia,2014,73.24
+OTHERTR,Unspecified (other) treatment ,Greece,2017,10.65
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Austria,2016,32.33
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),France,2016,49.19
+PUBADVTR,Tertiary treatment,Spain,2016,18.94
+PUBBIOTR,Secondary treatment,Mexico,2016,0.32
+PUBADVTR,Tertiary treatment,Denmark,2012,9.78
+OTHERTR,Unspecified (other) treatment ,Iceland,2010,41.39
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Belgium,2015,45.92
+PUBADVTR,Tertiary treatment,United States,2011,5.03
+PUBBIOTR,Secondary treatment,England and Wales,2011,54.26
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,New Zealand,2019,26.73
+PUBBIOTR,Secondary treatment,Hungary,2014,20.56
+OTHERTR,Unspecified (other) treatment ,Slovak Republic,2012,0.47
+INDEPDTR,Population connected to independent treatment,Czech Republic,2018,65.19
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Norway,2010,29.32
+PUBBIOTR,Secondary treatment,Sweden,2013,23.86
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Netherlands,2011,61.73
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Greece,2013,53.14
+PUBMECTR,Primary treatment,England and Wales,2012,6.28
+INDEPDTR,Population connected to independent treatment,Australia,2010,55.0
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Poland,2013,40.05
+INDEPDTR,Population connected to independent treatment,Japan,2017,54.38
+PUBADVTR,Tertiary treatment,Mexico,2012,71.19
+PUBADVTR,Tertiary treatment,Ireland,2014,8.36
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),France,2017,68.92
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Austria,2014,47.96
+PUBBIOTR,Secondary treatment,Korea,2010,71.58
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Mexico,2015,2.99
+PUBADVTR,Tertiary treatment,Denmark,2011,72.32
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Slovenia,2016,8.93
+PUBADVTR,Tertiary treatment,Norway,2012,66.45
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Portugal,2017,39.79
+PUBMECTR,Primary treatment,Chile,2017,10.96
+PUBMECTR,Primary treatment,Norway,2013,23.81
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Netherlands,2018,3.94
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Denmark,2010,65.65
+PUBBIOTR,Secondary treatment,Hungary,2012,25.13
+PUBBIOTR,Secondary treatment,Belgium,2014,23.39
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),New Zealand,2019,19.43
+PUBADVTR,Tertiary treatment,Japan,2010,58.29
+INDEPDTR,Population connected to independent treatment,Greece,2015,29.14
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Slovak Republic,2015,49.07
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Latvia,2010,46.85
+PUBMECTR,Primary treatment,Luxembourg,2018,41.18
+INDEPDTR,Population connected to independent treatment,Hungary,2014,62.95
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Korea,2012,1.44
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),United States,2019,28.76
+PUBBIOTR,Secondary treatment,Finland,2018,47.56
+OTHERTR,Unspecified (other) treatment ,Poland,2010,1.62
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),England and Wales,2012,47.53
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Iceland,2012,15.82
+INDEPDTR,Population connected to independent treatment,Canada,2010,40.38
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Latvia,2011,59.21
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Turkey,2013,67.2
+OTHERTR,Unspecified (other) treatment ,Slovak Republic,2013,1.46
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Norway,2011,24.32
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,United States,2012,20.56
+OTHERTR,Unspecified (other) treatment ,Australia,2010,33.16
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Slovenia,2014,7.0
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Slovenia,2012,3.51
+OTHERTR,Unspecified (other) treatment ,Korea,2012,16.76
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Slovak Republic,2013,38.88
+PUBADVTR,Tertiary treatment,Estonia,2011,62.76
+PUBADVTR,Tertiary treatment,Portugal,2012,49.0
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Mexico,2018,51.32
+INDEPDTR,Population connected to independent treatment,Germany,2014,58.46
+PUBMECTR,Primary treatment,Chile,2015,46.32
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Finland,2018,30.39
+PUBADVTR,Tertiary treatment,England and Wales,2010,53.92
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Czech Republic,2014,5.83
+PUBADVTR,Tertiary treatment,Slovenia,2013,37.12
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Chile,2018,46.19
+PUBBIOTR,Secondary treatment,Portugal,2012,30.19
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Korea,2019,1.0
+INDEPDTR,Population connected to independent treatment,Lithuania,2019,68.57
+INDEPDTR,Population connected to independent treatment,Australia,2015,40.35
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Latvia,2013,66.94
+INDEPDTR,Population connected to independent treatment,France,2018,40.19
+PUBBIOTR,Secondary treatment,France,2016,51.74
+PUBBIOTR,Secondary treatment,Japan,2019,8.98
+PUBBIOTR,Secondary treatment,Korea,2017,3.3
+OTHERTR,Unspecified (other) treatment ,United Kingdom,2015,8.46
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Portugal,2017,22.91
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Portugal,2012,38.34
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Chile,2019,31.93
+PUBMECTR,Primary treatment,Turkey,2017,23.81
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Italy,2010,-0.15
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Lithuania,2011,9.25
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Mexico,2019,35.07
+PUBBIOTR,Secondary treatment,Netherlands,2018,19.27
+OTHERTR,Unspecified (other) treatment ,Lithuania,2019,21.92
+PUBBIOTR,Secondary treatment,Denmark,2010,11.04
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Netherlands,2019,18.01
+PUBMECTR,Primary treatment,Italy,2018,36.31
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Greece,2013,22.65
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),United States,2016,57.24
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Israel,2014,4.14
+PUBMECTR,Primary treatment,United Kingdom,2012,23.82
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Czech Republic,2012,19.74
+INDEPDTR,Population connected to independent treatment,Japan,2019,62.59
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Belgium,2017,42.89
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Israel,2019,51.41
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Netherlands,2011,19.94
+INDEPDTR,Population connected to independent treatment,France,2017,42.34
+PUBBIOTR,Secondary treatment,Estonia,2014,10.02
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Czech Republic,2016,55.26
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Japan,2011,34.29
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),United Kingdom,2013,41.07
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),England and Wales,2014,58.59
+PUBMECTR,Primary treatment,Portugal,2019,50.1
+PUBMECTR,Primary treatment,France,2013,10.18
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Australia,2012,28.54
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Belgium,2012,9.72
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Belgium,2015,64.15
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Sweden,2017,39.99
+PUBADVTR,Tertiary treatment,United States,2014,51.1
+PUBADVTR,Tertiary treatment,Portugal,2014,57.07
+PUBMECTR,Primary treatment,Estonia,2011,73.25
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Switzerland,2016,0.73
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Denmark,2018,61.96
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Switzerland,2015,51.11
+OTHERTR,Unspecified (other) treatment ,Germany,2014,4.61
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Finland,2012,0.83
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,France,2013,23.69
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Slovenia,2014,34.91
+PUBADVTR,Tertiary treatment,Belgium,2012,55.29
+PUBADVTR,Tertiary treatment,Poland,2010,49.11
+PUBMECTR,Primary treatment,England and Wales,2012,39.8
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),New Zealand,2012,49.74
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Switzerland,2017,48.85
+PUBBIOTR,Secondary treatment,Estonia,2017,2.93
+PUBADVTR,Tertiary treatment,Poland,2010,68.6
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Sweden,2014,74.39
+PUBADVTR,Tertiary treatment,Slovenia,2016,62.13
+PUBMECTR,Primary treatment,Portugal,2012,54.1
+INDEPDTR,Population connected to independent treatment,Chile,2010,52.2
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Sweden,2019,45.28
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Portugal,2015,47.82
+PUBBIOTR,Secondary treatment,Israel,2016,44.22
+OTHERTR,Unspecified (other) treatment ,Norway,2016,6.67
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),New Zealand,2019,49.08
+PUBBIOTR,Secondary treatment,Turkey,2017,4.54
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Spain,2012,27.98
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Iceland,2019,50.6
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Slovenia,2013,2.45
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Hungary,2017,47.67
+PUBMECTR,Primary treatment,Hungary,2012,8.53
+PUBMECTR,Primary treatment,Canada,2016,0.32
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Ireland,2017,61.51
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Finland,2019,21.44
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Greece,2018,5.91
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Austria,2013,18.03
+PUBBIOTR,Secondary treatment,Iceland,2011,45.28
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Norway,2012,30.82
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Portugal,2011,64.16
+PUBADVTR,Tertiary treatment,Italy,2016,61.02
+PUBADVTR,Tertiary treatment,Japan,2011,39.29
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Italy,2019,26.86
+PUBBIOTR,Secondary treatment,Hungary,2012,46.21
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Norway,2018,17.85
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Turkey,2014,11.55
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Portugal,2014,57.35
+PUBMECTR,Primary treatment,Sweden,2018,62.0
+PUBMECTR,Primary treatment,New Zealand,2014,67.09
+PUBMECTR,Primary treatment,United Kingdom,2013,58.39
+INDEPDTR,Population connected to independent treatment,Greece,2011,0.18
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Slovak Republic,2018,16.49
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Denmark,2017,28.37
+PUBBIOTR,Secondary treatment,Luxembourg,2010,6.04
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Austria,2015,12.57
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Australia,2013,31.62
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Slovenia,2019,5.81
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Mexico,2010,49.83
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Korea,2010,65.18
+PUBADVTR,Tertiary treatment,Latvia,2012,18.25
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Spain,2014,31.12
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),United Kingdom,2016,13.04
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Latvia,2014,20.74
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Finland,2010,27.15
+INDEPDTR,Population connected to independent treatment,Australia,2016,27.86
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),United Kingdom,2013,41.06
+INDEPDTR,Population connected to independent treatment,Japan,2014,32.24
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Canada,2018,9.72
+OTHERTR,Unspecified (other) treatment ,Hungary,2018,23.46
+INDEPDTR,Population connected to independent treatment,United States,2012,49.86
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),New Zealand,2018,16.41
+PUBADVTR,Tertiary treatment,Austria,2012,69.06
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),France,2010,57.12
+OTHERTR,Unspecified (other) treatment ,Sweden,2013,8.6
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Australia,2010,44.63
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Belgium,2013,26.4
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Czech Republic,2018,46.72
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Hungary,2019,31.01
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),New Zealand,2019,44.82
+PUBMECTR,Primary treatment,Luxembourg,2014,39.97
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Sweden,2012,68.76
+PUBBIOTR,Secondary treatment,Ireland,2019,51.02
+PUBADVTR,Tertiary treatment,Iceland,2018,36.3
+INDEPDTR,Population connected to independent treatment,Denmark,2016,28.62
+OTHERTR,Unspecified (other) treatment ,Poland,2011,30.88
+PUBMECTR,Primary treatment,Lithuania,2019,1.9
+PUBMECTR,Primary treatment,Korea,2016,10.47
+INDEPDTR,Population connected to independent treatment,Australia,2017,39.34
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Portugal,2016,70.84
+PUBMECTR,Primary treatment,Luxembourg,2013,38.16
+INDEPDTR,Population connected to independent treatment,Mexico,2015,26.82
+PUBADVTR,Tertiary treatment,Spain,2016,32.44
+INDEPDTR,Population connected to independent treatment,Korea,2010,64.41
+PUBADVTR,Tertiary treatment,Poland,2017,45.64
+INDEPDTR,Population connected to independent treatment,Italy,2012,20.54
+PUBMECTR,Primary treatment,Greece,2011,28.17
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Estonia,2018,29.99
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Switzerland,2018,15.74
+PUBADVTR,Tertiary treatment,Luxembourg,2018,25.31
+PUBBIOTR,Secondary treatment,New Zealand,2012,57.93
+PUBADVTR,Tertiary treatment,France,2013,1.06
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Slovak Republic,2017,66.42
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,New Zealand,2016,40.53
+PUBADVTR,Tertiary treatment,Iceland,2011,25.51
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Denmark,2018,55.08
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Estonia,2011,31.63
+OTHERTR,Unspecified (other) treatment ,Poland,2012,38.08
+PUBBIOTR,Secondary treatment,Slovenia,2011,55.06
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Spain,2017,23.48
+OTHERTR,Unspecified (other) treatment ,Switzerland,2017,12.27
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),England and Wales,2013,59.7
+PUBADVTR,Tertiary treatment,Korea,2016,20.71
+PUBMECTR,Primary treatment,Israel,2017,66.22
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),New Zealand,2013,49.43
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Germany,2013,74.25
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Denmark,2016,59.88
+PUBBIOTR,Secondary treatment,Lithuania,2011,13.51
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Estonia,2010,65.63
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Greece,2010,38.75
+PUBMECTR,Primary treatment,Israel,2015,33.44
+PUBADVTR,Tertiary treatment,United States,2019,5.44
+PUBMECTR,Primary treatment,Netherlands,2010,56.0
+OTHERTR,Unspecified (other) treatment ,France,2011,71.44
+OTHERTR,Unspecified (other) treatment ,Korea,2016,69.74
+PUBMECTR,Primary treatment,Japan,2019,73.84
+PUBADVTR,Tertiary treatment,Mexico,2018,14.15
+PUBMECTR,Primary treatment,France,2019,39.89
+PUBADVTR,Tertiary treatment,Germany,2015,45.74
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Denmark,2012,62.94
+OTHERTR,Unspecified (other) treatment ,Estonia,2018,7.59
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Denmark,2019,32.83
+PUBMECTR,Primary treatment,Poland,2019,26.8
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Sweden,2018,19.3
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Hungary,2010,23.39
+INDEPDTR,Population connected to independent treatment,Greece,2010,19.31
+OTHERTR,Unspecified (other) treatment ,France,2013,46.91
+OTHERTR,Unspecified (other) treatment ,Lithuania,2013,51.58
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Mexico,2017,29.82
+PUBMECTR,Primary treatment,Latvia,2019,6.66
+OTHERTR,Unspecified (other) treatment ,Netherlands,2018,49.16
+PUBBIOTR,Secondary treatment,Austria,2011,64.67
+INDEPDTR,Population connected to independent treatment,Czech Republic,2012,31.95
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Turkey,2011,53.12
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Slovak Republic,2010,11.16
+PUBMECTR,Primary treatment,Spain,2018,16.67
+PUBADVTR,Tertiary treatment,Sweden,2013,19.15
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Belgium,2018,17.7
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Lithuania,2010,26.96
+PUBMECTR,Primary treatment,France,2014,71.94
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Italy,2015,40.54
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,New Zealand,2015,39.84
+PUBADVTR,Tertiary treatment,Austria,2011,38.8
+PUBADVTR,Tertiary treatment,New Zealand,2019,36.94
+PUBMECTR,Primary treatment,Korea,2017,71.03
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Slovak Republic,2016,57.42
+OTHERTR,Unspecified (other) treatment ,Iceland,2011,71.91
+PUBMECTR,Primary treatment,Mexico,2011,19.48
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Portugal,2017,43.96
+OTHERTR,Unspecified (other) treatment ,New Zealand,2011,33.12
+PUBADVTR,Tertiary treatment,Latvia,2011,65.03
+PUBBIOTR,Secondary treatment,England and Wales,2014,8.48
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Chile,2017,48.88
+PUBBIOTR,Secondary treatment,Greece,2014,53.13
+INDEPDTR,Population connected to independent treatment,New Zealand,2013,35.84
+PUBBIOTR,Secondary treatment,Austria,2016,47.23
+PUBMECTR,Primary treatment,Austria,2010,42.22
+PUBBIOTR,Secondary treatment,Chile,2019,73.62
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Czech Republic,2018,7.56
+INDEPDTR,Population connected to independent treatment,United States,2018,26.89
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Chile,2014,-0.25
+OTHERTR,Unspecified (other) treatment ,Portugal,2019,15.38
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Chile,2016,16.47
+INDEPDTR,Population connected to independent treatment,United States,2012,63.56
+OTHERTR,Unspecified (other) treatment ,Austria,2018,13.17
+PUBADVTR,Tertiary treatment,Denmark,2018,46.03
+OTHERTR,Unspecified (other) treatment ,Israel,2014,54.86
+PUBMECTR,Primary treatment,England and Wales,2011,40.16
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Spain,2013,9.46
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Latvia,2015,64.47
+PUBBIOTR,Secondary treatment,New Zealand,2019,12.45
+OTHERTR,Unspecified (other) treatment ,Lithuania,2016,10.01
+OTHERTR,Unspecified (other) treatment ,Japan,2014,23.75
+OTHERTR,Unspecified (other) treatment ,France,2016,2.03
+OTHERTR,Unspecified (other) treatment ,Netherlands,2018,66.01
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Portugal,2012,62.45
+OTHERTR,Unspecified (other) treatment ,Italy,2018,55.95
+PUBBIOTR,Secondary treatment,Spain,2019,34.94
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Finland,2014,3.41
+PUBADVTR,Tertiary treatment,Japan,2015,35.28
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Germany,2012,50.33
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Lithuania,2010,6.16
+INDEPDTR,Population connected to independent treatment,Israel,2018,73.0
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Poland,2016,5.14
+PUBADVTR,Tertiary treatment,Mexico,2011,66.81
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Estonia,2014,74.55
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Austria,2018,65.32
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Australia,2012,73.85
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Sweden,2017,55.77
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Korea,2019,59.03
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Australia,2017,33.49
+PUBMECTR,Primary treatment,Luxembourg,2017,21.92
+PUBADVTR,Tertiary treatment,Korea,2014,72.35
+INDEPDTR,Population connected to independent treatment,Slovenia,2012,21.28
+PUBBIOTR,Secondary treatment,Iceland,2019,30.31
+PUBBIOTR,Secondary treatment,Korea,2012,40.79
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Finland,2014,62.47
+PUBBIOTR,Secondary treatment,Canada,2017,10.97
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Japan,2015,63.43
+OTHERTR,Unspecified (other) treatment ,Netherlands,2016,44.42
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Czech Republic,2019,53.4
+INDEPDTR,Population connected to independent treatment,Netherlands,2010,36.22
+PUBBIOTR,Secondary treatment,France,2010,23.91
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Korea,2018,16.72
+PUBNOTR,Connected to a wastewater treatment plant without treatment,United Kingdom,2018,40.8
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Portugal,2010,9.3
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Turkey,2017,72.37
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Greece,2010,3.01
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Denmark,2017,70.48
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Germany,2018,6.12
+INDEPDTR,Population connected to independent treatment,Poland,2019,44.65
+OTHERTR,Unspecified (other) treatment ,Estonia,2019,73.18
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Chile,2010,8.18
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Austria,2011,29.95
+PUBMECTR,Primary treatment,Switzerland,2010,35.61
+OTHERTR,Unspecified (other) treatment ,Poland,2010,51.16
+PUBNOTR,Connected to a wastewater treatment plant without treatment,United States,2012,60.19
+PUBBIOTR,Secondary treatment,Hungary,2013,43.75
+INDEPDTR,Population connected to independent treatment,Greece,2013,46.7
+PUBBIOTR,Secondary treatment,Poland,2014,46.0
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Finland,2013,26.05
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Portugal,2017,59.05
+PUBADVTR,Tertiary treatment,Slovak Republic,2017,49.05
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Belgium,2016,74.03
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Finland,2015,39.37
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Canada,2011,31.0
+PUBBIOTR,Secondary treatment,Netherlands,2010,59.11
+PUBMECTR,Primary treatment,Poland,2014,64.22
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Norway,2015,16.48
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Netherlands,2019,2.29
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Italy,2015,64.84
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Sweden,2014,54.8
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Greece,2019,50.66
+INDEPDTR,Population connected to independent treatment,Denmark,2011,26.32
+INDEPDTR,Population connected to independent treatment,Estonia,2012,56.56
+PUBMECTR,Primary treatment,Mexico,2010,45.88
+PUBADVTR,Tertiary treatment,Denmark,2017,53.68
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Israel,2016,70.87
+PUBMECTR,Primary treatment,Italy,2017,37.71
+PUBMECTR,Primary treatment,Austria,2016,7.7
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Chile,2017,70.34
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),United States,2014,31.71
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Norway,2011,44.71
+INDEPDTR,Population connected to independent treatment,Netherlands,2011,72.63
+PUBADVTR,Tertiary treatment,Australia,2014,37.99
+INDEPDTR,Population connected to independent treatment,Iceland,2019,56.04
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Estonia,2011,42.31
+INDEPDTR,Population connected to independent treatment,Turkey,2014,24.82
+PUBMECTR,Primary treatment,Poland,2019,53.33
+INDEPDTR,Population connected to independent treatment,Austria,2011,19.01
+INDEPDTR,Population connected to independent treatment,Lithuania,2011,22.73
+PUBBIOTR,Secondary treatment,Austria,2016,20.86
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Mexico,2010,31.7
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Hungary,2013,42.39
+PUBBIOTR,Secondary treatment,Switzerland,2010,67.73
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,United Kingdom,2019,2.08
+PUBBIOTR,Secondary treatment,Slovenia,2017,10.34
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Latvia,2012,39.31
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Chile,2015,20.65
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Chile,2010,-0.43
+OTHERTR,Unspecified (other) treatment ,Japan,2015,67.17
+TOTPUBSEW,Total public sewerage (% of resident population connected to urban wastewater collecting system = PUBTOTTR + PUBNOTR),Estonia,2014,16.7
+PUBADVTR,Tertiary treatment,Germany,2017,32.64
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Mexico,2016,49.29
+INDEPDTR,Population connected to independent treatment,Germany,2011,5.75
+OTHERTR,Unspecified (other) treatment ,Canada,2017,53.32
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Hungary,2012,47.99
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Czech Republic,2010,18.81
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Korea,2016,21.19
+PUBADVTR,Tertiary treatment,Spain,2015,67.77
+OTHERTR,Unspecified (other) treatment ,Spain,2017,18.8
+PUBBIOTR,Secondary treatment,Czech Republic,2018,11.88
+PUBBIOTR,Secondary treatment,Italy,2017,22.2
+OTHERTR,Unspecified (other) treatment ,Mexico,2019,62.69
+PUBADVTR,Tertiary treatment,Germany,2017,2.53
+INDEPDTR,Population connected to independent treatment,Hungary,2016,29.77
+INDEPDTR,Population connected to independent treatment,Denmark,2016,51.26
+PUBADVTR,Tertiary treatment,Netherlands,2010,69.11
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,Canada,2015,58.2
+PUBADVTR,Tertiary treatment,Czech Republic,2012,59.26
+PUBADVTR,Tertiary treatment,Czech Republic,2019,13.9
+INDEPDTR,Population connected to independent treatment,Australia,2012,70.15
+NOPUBSEWIND,Not connected to public sewerage or independent treatment,New Zealand,2016,6.1
+PUBBIOTR,Secondary treatment,Estonia,2016,18.31
+PUBADVTR,Tertiary treatment,Hungary,2013,49.22
+TOTTR,Total treatment ( = PUBTOTTR + INDEPDTR),Latvia,2014,66.67
+PUBBIOTR,Secondary treatment,Luxembourg,2012,45.25
+INDEPDTR,Population connected to independent treatment,Israel,2011,14.4
+PUBTOTTR,Public total treatment (connected to a wastewater treatment plant = PUBMECTR + PUBBIOTR + PUBADVTR + OTHERTR),Slovenia,2011,14.07
+PUBBIOTR,Secondary treatment,Finland,2013,24.2
+PUBNOTR,Connected to a wastewater treatment plant without treatment,Australia,2014,7.51
